@@ -1,0 +1,3 @@
+[submodule "SADE"]
+	path = SADE
+	url = https://github.com/mathias-goebel/SADE.git
