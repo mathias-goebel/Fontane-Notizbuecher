@@ -1,3 +1,6 @@
 [submodule "SADE"]
 	path = SADE
 	url = https://github.com/mathias-goebel/SADE.git
+[submodule "textgrid-sade-connector"]
+	path = textgrid-sade-connector
+	url = https://github.com/ubbo/textgrid-sade-connector.git
